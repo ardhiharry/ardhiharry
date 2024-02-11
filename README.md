@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <p>I am a Backend Engineer.  Currently using Javascript and NodeJS as the main technology stack.</p>
+    <p>I am a Backend Engineer.  Currently using Javascript and NodeJS as the main tech stack.</p>
 </div>
 
 <hr style="border: 2px solid #31373D;" />
