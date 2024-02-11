@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>Hi There <img src="src/img/hi.gif" width="30"></h1>
+    <h1>Hi There <img src="https://github.com/ardhiharry/ardhiharry/blob/main/src/img/hi.gif" width="30"></h1>
 </div>
 
 <div align="center" width="50">
-    <img src="src/img/header-github.gif" alt="Header" />
+    <img src="https://github.com/ardhiharry/ardhiharry/blob/main/src/img/header-github.gif" alt="Header" />
 </div>
 
 <div align="center">
@@ -47,10 +47,10 @@
 
 <p align="left">
     <a href="https://github.com/ardhiharry">
-      <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ardhiharry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&show=prs_merged_percentage" alt="github-stats" title="Github Stats" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ardhiharry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&show=prs_merged_percentage" alt="github-stats" title="Github Stats" />
     </a>
     <a href="https://github.com/ardhiharry">
-      <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhiharry&layout=compact&langs_count=16&card_width=320&theme=dracula" alt="used-languages" title="Used Languages" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhiharry&layout=compact&langs_count=16&card_width=320&theme=dracula" alt="used-languages" title="Used Languages" />
     </a>
 </p>
 
